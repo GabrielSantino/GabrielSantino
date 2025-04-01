@@ -28,3 +28,5 @@
 
 ## 📈 Estatísticas
 ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSantino&show_icons=true&theme=radical)
+
+[![Streak](https://streak-stats.demolab.com?user=GabrielSantino&theme=radical&hide_border=true)](https://git.io/streak-stats)
